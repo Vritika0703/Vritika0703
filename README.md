@@ -41,10 +41,10 @@
 
 ### 🏆 Featured Projects
 
-| 🧠 AI & Machine Learning | ☁️ Cloud & Scalable Systems | 💻 Software Engineering |
+| | | |
 | :--- | :--- | :--- |
 | [**Thinklytics AI**](https://github.com/Vritika0703/Thinklytics_AI)<br>_Analytics Engine_<br><br>An advanced Python-based application utilizing Machine Learning algorithms to process complex datasets and extract business insights. | [**Vision Vault**](https://github.com/Vritika0703/Vision-Vault)<br>_Serverless AI Photo Gallery_<br><br>Built with AWS Lambda, React, and OpenSearch. Uses **Amazon Rekognition** to automatically tag and index photos for Natural Language queries. | [**Nomz**](https://github.com/gcivil-nyu-org/team3-mon-spring26)<br>_Restaurant Moderation Platform_<br><br>Comprehensive administrative dashboard enabling efficient content moderation, reporting, and restaurant management workflows. |
-| [**IngestaBot**](https://github.com/Vritika0703/IngestaBot)<br>_Data Ingestion Bot_<br><br>Automated JavaScript-based intelligent bot designed for scalable data ingestion and processing workflows. | [**City Pulse**](https://github.com/Vritika0703/City-Pulse)<br>_Smart City Data Dashboard_<br><br>Full-stack architectural application built with Python and Django. Capable of handling, visualizing, and serving high volumes of urban metrics. | |
+| [**City Pulse**](https://github.com/Vritika0703/City-Pulse)<br>_Smart City Data Dashboard_<br><br>Full-stack architectural application built with Python and Django. Capable of handling, visualizing, and serving high volumes of urban metrics. | [**IngestaBot**](https://github.com/Vritika0703/IngestaBot)<br>_Data Ingestion Bot_<br><br>Automated JavaScript-based intelligent bot designed for scalable data ingestion and processing workflows. | |
 
 ---
 
