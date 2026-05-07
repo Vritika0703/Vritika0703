@@ -19,6 +19,7 @@
 * 🎓 **Education:** Pursuing an MS in Computer Science at **NYU Tandon School of Engineering**.
 * 🎯 **My Objective:** Bridging the gap between intelligent algorithms and scalable infrastructure. I build robust software systems powered by AI/ML and hosted on the Cloud.
 * 🚀 **Currently:** Actively seeking Summer Co-ops & Internships where I can apply my skills across **Machine Learning**, **Cloud Architecture**, and **Software Systems**.
+* 📫 **Reach Out:** I'm always open to discussing new opportunities or projects! Feel free to email me directly at **[vs3518@nyu.edu](mailto:vs3518@nyu.edu)**.
 
 ---
 
