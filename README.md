@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Hi,%20I'm%20Vritika!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<h3 align="center">MS in Computer Science @ NYU Tandon | Software Engineer | Cloud & AI Enthusiast</h3>
+<h3 align="center">MS in Computer Science @ NYU Tandon | Software Engineer | AI/ML & Cloud Computing</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vritika-srivastava-05a64924a" target="_blank">
@@ -17,47 +17,42 @@
 
 ### 👨‍💻 About Me
 * 🎓 **Education:** Pursuing an MS in Computer Science at **NYU Tandon School of Engineering**.
-* ☁️ **Focus Areas:** Cloud Architecture, Serverless Microservices, Full-Stack Development, and Applied AI.
-* 🚀 **Currently:** Looking for Summer Software Engineering Co-ops / Internships!
+* 🧠 **Focus Areas:** Artificial Intelligence & Machine Learning, Cloud Architecture, and Full-Stack Software Engineering.
+* 🚀 **Currently:** Actively seeking Summer Co-ops & Internships in Software Engineering, Machine Learning, or Cloud roles!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,tailwind,django,flask&theme=light" />
+  <strong>AI & Machine Learning</strong><br>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,opencv&theme=light" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,mongodb,postgres,git,github,bash&theme=light" />
+  <strong>Software Development & Cloud</strong><br>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,django,react,js,mongodb,postgres,github&theme=light" />
 </p>
 
 ---
 
 ### 🏆 Featured Projects
 
-| ☁️ [Vision Vault](https://github.com/Vritika0703/Vision-Vault) | 🏙️ [City Pulse](https://github.com/Vritika0703/City-Pulse) | 🤖 [Thinklytics AI](https://github.com/Vritika0703/Thinklytics_AI) |
+| ☁️ [Vision Vault](https://github.com/Vritika0703/Vision-Vault) | 🤖 [Thinklytics AI](https://github.com/Vritika0703/Thinklytics_AI) | 🏙️ [City Pulse](https://github.com/Vritika0703/City-Pulse) |
 | :--- | :--- | :--- |
-| **Serverless AI Photo Gallery**<br>Built with AWS Lambda, API Gateway, React, and Tailwind. Uses Amazon Rekognition & OpenSearch for NLP image discovery. | **Smart City Dashboard**<br>Full-stack web application built with Python and Django. Visualizes urban data and metrics. | **AI Analytics Engine**<br>Advanced Python-based tool utilizing AI to process data and extract meaningful insights. |
+| **Serverless AI Photo Gallery**<br>Built with AWS Lambda, API Gateway, and React. Uses **Amazon Rekognition** & OpenSearch for NLP image discovery. | **AI Analytics Engine**<br>Advanced Python-based tool utilizing **Machine Learning** to process complex data and extract meaningful insights. | **Smart City Dashboard**<br>Full-stack web application built with Python and Django. Visualizes urban data and metrics. |
 
-| 💬 [Chat Application](https://github.com/Vritika0703/chat-application) | 🎙️ [Voice Assistant](https://github.com/Vritika0703/Voice-assistant) | 🔐 [Password Generator](https://github.com/Vritika0703/password-generator) |
+| 🎙️ [Voice Assistant](https://github.com/Vritika0703/Voice-assistant) | 💬 [Chat Application](https://github.com/Vritika0703/chat-application) | 🔐 [Password Generator](https://github.com/Vritika0703/password-generator) |
 | :--- | :--- | :--- |
-| **Real-time Messaging**<br>Python-based real-time chat architecture enabling seamless user communication. | **Audio NLP Tool**<br>Python application capable of processing voice inputs and automating tasks. | **Security Tool**<br>Python utility for generating highly secure, randomized cryptographic passwords. |
+| **Audio NLP Tool**<br>Python application capable of processing voice inputs and automating tasks using NLP. | **Real-time Messaging**<br>Python-based real-time chat architecture enabling seamless user communication. | **Security Tool**<br>Python utility for generating highly secure, randomized cryptographic passwords. |
 
 ---
 
-### 📊 GitHub Interactive Stats
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vritika0703&show_icons=true&theme=radium&hide_border=true&bg_color=f8fafc" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vritika0703&theme=radium&hide_border=true&background=f8fafc" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vritika0703&layout=compact&theme=radium&hide_border=true&bg_color=f8fafc" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vritika0703&theme=radium&hide_border=true&background=f8fafc" />
 </div>
 
 ---
 <div align="center">
-  <i>"Building scalable systems and intelligent applications."</i>
+  <i>"Building scalable systems, intelligent models, and impactful applications."</i>
 </div>
