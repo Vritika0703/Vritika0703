@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=250&section=header&text=Hi,%20I'm%20Vritika!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<h3 align="center">MS in Computer Science @ NYU Tandon | Software Engineer | AI/ML & Cloud Computing</h3>
+<h3 align="center">MS in Computer Science @ NYU Tandon<br>🧠 AI & Machine Learning | ☁️ Cloud Computing | 💻 Software Development</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vritika-srivastava-05a64924a" target="_blank">
@@ -17,32 +17,34 @@
 
 ### 👨‍💻 About Me
 * 🎓 **Education:** Pursuing an MS in Computer Science at **NYU Tandon School of Engineering**.
-* 🧠 **Focus Areas:** Artificial Intelligence & Machine Learning, Cloud Architecture, and Full-Stack Software Engineering.
-* 🚀 **Currently:** Actively seeking Summer Co-ops & Internships in Software Engineering, Machine Learning, or Cloud roles!
+* 🎯 **My Objective:** Bridging the gap between intelligent algorithms and scalable infrastructure. I build robust software systems powered by AI/ML and hosted on the Cloud.
+* 🚀 **Currently:** Actively seeking Summer Co-ops & Internships where I can apply my skills across **Machine Learning**, **Cloud Architecture**, and **Software Systems**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Competencies & Tech Stack
 
-<p align="center">
-  <strong>AI & Machine Learning</strong><br>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,opencv&theme=light" />
-  <br><br>
-  <strong>Software Development & Cloud</strong><br>
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,django,react,js,mongodb,postgres,github&theme=light" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">🧠 <b>AI & Machine Learning</b></td>
+    <td align="center">☁️ <b>Cloud & DevOps</b></td>
+    <td align="center">💻 <b>Software Development</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,linux&theme=light" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=js,react,django,mongodb,postgres&theme=light" /></td>
+  </tr>
+</table>
 
 ---
 
 ### 🏆 Featured Projects
 
-| ☁️ [Vision Vault](https://github.com/Vritika0703/Vision-Vault) | 🤖 [Thinklytics AI](https://github.com/Vritika0703/Thinklytics_AI) | 🏙️ [City Pulse](https://github.com/Vritika0703/City-Pulse) |
+| 🧠 AI/ML & Cloud | ☁️ Scalable Systems | 💻 Software Engineering |
 | :--- | :--- | :--- |
-| **Serverless AI Photo Gallery**<br>Built with AWS Lambda, API Gateway, and React. Uses **Amazon Rekognition** & OpenSearch for NLP image discovery. | **AI Analytics Engine**<br>Advanced Python-based tool utilizing **Machine Learning** to process complex data and extract meaningful insights. | **Smart City Dashboard**<br>Full-stack web application built with Python and Django. Visualizes urban data and metrics. |
-
-| 🎙️ [Voice Assistant](https://github.com/Vritika0703/Voice-assistant) | 💬 [Chat Application](https://github.com/Vritika0703/chat-application) | 🔐 [Password Generator](https://github.com/Vritika0703/password-generator) |
-| :--- | :--- | :--- |
-| **Audio NLP Tool**<br>Python application capable of processing voice inputs and automating tasks using NLP. | **Real-time Messaging**<br>Python-based real-time chat architecture enabling seamless user communication. | **Security Tool**<br>Python utility for generating highly secure, randomized cryptographic passwords. |
+| [**Vision Vault**](https://github.com/Vritika0703/Vision-Vault)<br>_Serverless AI Photo Gallery_<br><br>Built with AWS Lambda, React, and OpenSearch. Uses **Amazon Rekognition** to automatically tag and index photos for Natural Language queries. | [**City Pulse**](https://github.com/Vritika0703/City-Pulse)<br>_Smart City Data Dashboard_<br><br>Full-stack architectural application built with Python and Django. Capable of handling, visualizing, and serving high volumes of urban metrics. | [**Thinklytics AI**](https://github.com/Vritika0703/Thinklytics_AI)<br>_Analytics Engine_<br><br>An advanced Python-based software application utilizing Machine Learning algorithms to process complex datasets and extract business insights. |
+| [**Voice Assistant**](https://github.com/Vritika0703/Voice-assistant)<br>_Audio NLP Tool_<br><br>Python application capable of processing voice inputs and automating tasks using Natural Language Processing. | [**Chat Application**](https://github.com/Vritika0703/chat-application)<br>_Real-time Messaging_<br><br>Python-based real-time software architecture enabling seamless user communication over a network. | [**Password Generator**](https://github.com/Vritika0703/password-generator)<br>_Security Tool_<br><br>Python software utility for generating highly secure, randomized cryptographic passwords. |
 
 ---
 
@@ -54,5 +56,5 @@
 
 ---
 <div align="center">
-  <i>"Building scalable systems, intelligent models, and impactful applications."</i>
+  <i>"Designing intelligent models, deploying to the cloud, and building scalable software."</i>
 </div>
