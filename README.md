@@ -5,13 +5,12 @@
 <h3 align="center">MS in Computer Science @ NYU Tandon | Software Engineer | Cloud & AI Enthusiast</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/vritikasrivastava" target="_blank">
+  <a href="https://www.linkedin.com/in/vritika-srivastava-05a64924a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@nyu.edu">
+  <a href="mailto:vs3518@nyu.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Vritika0703&label=Profile%20Views&color=7C3AED&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
